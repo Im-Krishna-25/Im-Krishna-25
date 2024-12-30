@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Venkata Sai Krishna Gudla
 
-<!--
-**Im-Krishna-25/Im-Krishna-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm Venkata Sai Krishna Gudla, a **Computer Science graduate** with a strong passion for **cloud computing**, **automation**, and **building scalable solutions**. I specialize in leveraging modern tools and technologies to craft innovative solutions to real-world problems. This README is my showcase of skills, projects, and aspirations. Let’s explore together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Interests:
+
+- **Programming Languages**          : Python, C, Java, HTML, CSS, JavaScript (basic knowledge)
+- **Frameworks/Libraries**           : Django, Bootstrap, NumPy, Pandas
+- **Databases**                      : MySQL, SQLite
+- **Cloud Platforms**                : AWS, Azure
+- **Containerization & Orchestration**: Docker, Kubernetes
+- **Developer Tools**                : Git/GitHub, Google Colab, VS Code, Anaconda
+- **CI/CD & Automation**             : Ansible, Jenkins (basic knowledge)
+- **Academic Coursework**            : Data Structures, Operating Systems (Windows, Unix/Linux), Computer Networks (CN), OOP, DBMS, Software Engineering, Cloud Computing, Distributed Systems
+- **Interests**                      : Cloud-Native Development, Machine Learning, DevOps, Open-Source Contributions
+
+### Projects:
+
+- **Expense Management System - 3-Tier Architecture on AWS**:
+  Designed and implemented a scalable, secure, and efficient 3-tier architecture with:
+  - **Frontend**: React.js hosted on Amazon S3 with CloudFront for global delivery.
+  - **Backend**: Node.js application on EC2 instances with Auto Scaling and Load Balancing.
+  - **Database**: Amazon RDS (MySQL) with Multi-AZ deployment for fault tolerance.
+  [Project Link](https://github.com/Im-Krishna-25/Expense-Management-System)
+
+- **BP Neural Network Based Recommender System with Attention Mechanism**:
+  Developed a recommendation system using a BP Neural Network enhanced with attention mechanisms to improve accuracy and reduce overfitting.
+  - Conducted extensive experiments on benchmark datasets.
+  - Optimized neural network parameters for improved performance.
+  [Project Link](https://github.com/Im-Krishna-25/Neural-Network-Recommender)
+
+- **Car Rental Website**:
+  Created a fully functional car rental website using:
+  - **Frontend**: HTML, CSS, JavaScript for responsive design and interactive features.
+  - **Backend**: Simulated API integration for booking and inventory management.
+  [Project Link](https://github.com/Im-Krishna-25/Car-Rental-App)
+
+- **Password Generator**:
+  Designed a Python script to generate secure passwords by combining letters, symbols, and numbers. Focused on enhancing online security for users.
+  [Project Link](https://github.com/Im-Krishna-25/Password-Generator)
+
+- **Snake Game**:
+  A classic snake game built with Python and Pygame featuring random food generation and edge wrapping. Perfect for a nostalgic gaming experience.
+  [Project Link](https://github.com/Im-Krishna-25/Snake-Game)
+
+### Certifications:
+
+- AWS Certified Cloud Practitioner  
+- Microsoft Azure Fundamentals  
+- Google IT Automation Using Python  
+- Full Stack Java Developer Certification
+
+### Achievements:
+
+- TOEFL Score: 92 (Reading: 28, Listening: 29, Speaking: 20, Writing: 15)  
+- GRE Score: Verbal: 161, Quantitative: 169, Analytical Writing: 3.0  
+- First Places in Tech Expos and PowerPoint Presentations for innovative ideas.
+
+### Connect with Me:
+
+- **Email**: krishnakumar.gv94@gmail.com  
+- **LinkedIn**: [Venkata Sai Krishna Gudla](https://www.linkedin.com/in/venkata-sai-krishna-gudla-453238197/)  
+- **GitHub**: [Im-Krishna-25](https://github.com/Im-Krishna-25)  
+
+### Feedback Welcome:
+
+I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
+
