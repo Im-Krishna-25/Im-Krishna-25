@@ -14,7 +14,7 @@ Hello! I'm Venkata Sai Krishna Gudla, a **Computer Science graduate** with a str
 - **Developer Tools**                : Git/GitHub, Google Colab, VS Code, Anaconda
 - **CI/CD & Automation**             : Ansible, Jenkins (basic knowledge)
 - **Academic Coursework**            : Data Structures, Operating Systems (Windows, Unix/Linux), Computer Networks (CN), OOP, DBMS, Software Engineering, Cloud Computing, Distributed Systems
-- **Interests**                      : Cloud-Native Development, Machine Learning, DevOps, Open-Source Contributions
+- **Interests**                      :I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
 
 ### Projects:
 
@@ -52,11 +52,6 @@ Hello! I'm Venkata Sai Krishna Gudla, a **Computer Science graduate** with a str
 - Google IT Automation Using Python  
 - Full Stack Java Developer Certification
 
-### Achievements:
-
-- TOEFL Score: 92 (Reading: 28, Listening: 29, Speaking: 20, Writing: 15)  
-- GRE Score: Verbal: 161, Quantitative: 169, Analytical Writing: 3.0  
-- First Places in Tech Expos and PowerPoint Presentations for innovative ideas.
 
 ### Connect with Me:
 
