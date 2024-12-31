@@ -6,13 +6,13 @@ Hello! I'm Venkata Sai Krishna Gudla, a **Computer Science graduate** with a str
 
 ### Skills & Interests:
 
-- **Programming Languages**          : Python, C, Java, HTML, CSS, JavaScript (basic knowledge)
+- **Programming Languages**          : Python, C, Java, HTML, CSS, Java and JavaScript (basic knowledge)
 - **Frameworks/Libraries**           : Django, Bootstrap, NumPy, Pandas
-- **Databases**                      : MySQL, SQLite
+- **Databases**                      : MySQL, Oracle, PostgreSQl,MongoDB
 - **Cloud Platforms**                : AWS, Azure
 - **Containerization & Orchestration**: Docker, Kubernetes
 - **Developer Tools**                : Git/GitHub, Google Colab, VS Code, Anaconda
-- **CI/CD & Automation**             : Ansible, Jenkins (basic knowledge)
+- **CI/CD & Automation**             : Ansible, Jenkins, Terraform
 - **Academic Coursework**            : Data Structures, Operating Systems (Windows, Unix/Linux), Computer Networks (CN), OOP, DBMS, Software Engineering, Cloud Computing, Distributed Systems
 - **Interests**                      :I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
 
