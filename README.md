@@ -2,7 +2,14 @@
 
 ## About Me
 
-Hello! I'm Venkata Sai Krishna Gudla, a **Computer Science graduate** with a strong passion for **cloud computing**, **automation**, and **building scalable solutions**. I specialize in leveraging modern tools and technologies to craft innovative solutions to real-world problems. This README is my showcase of skills, projects, and aspirations. Let’s explore together!
+Hello! I'm Venkata Sai Krishna Gudla, 
+👩‍💻 I love coding in Python 🐍 and occasionally participate in python hackathons.
+💼 I’m open to work as a Python Developer and always exploring exciting opportunities in backend development and cloud computing.
+🤝 Looking to collaborate on Python-based projects, especially those involving backend development, automation, or cloud technologies.
+🌱 Currently diving deep into DevOps learning to integrate security into CI/CD pipelines, and mastering tools like Docker, Kubernetes, and Terraform.
+🛡️ Passionate about securing cloud-native applications and building robust, secure systems.
+
+
 
 ### Skills & Interests:
 
