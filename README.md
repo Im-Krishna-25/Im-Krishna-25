@@ -3,7 +3,7 @@
 ## About Me
 
 Hello!, 
-- 👩‍💻 I love coding in **Python** 🐍 and occasionally participate in python hackathons.
+- 👨‍💻 I love coding in **Python** 🐍 and occasionally participate in python hackathons.
 - 🐍 I love coding in **Python** and enjoy solving complex problems through scalable solutions.
 - 💼 I’m open to work as a **Python Developer** and exploring opportunities in backend development and cloud engineering.
 - 🤝 Looking to collaborate on **Python-based projects**, especially those focused on backend systems, cloud infrastructure, or automation.
